@@ -1,0 +1,9 @@
+depths/
+dump_json/
+imgs/
+masks/
+pcds/
+poses/
+Results/
+pitch_plots/
+.ipynb_checkpoints
